@@ -2,9 +2,9 @@
 
 # Module 1 — Introduction to HTML
 ## What is HTML?
-```
+`
 HTML stands for HyperText Markup Language. It is the language that gives web pages their structure and content.
-```
+`
 ## History and versions of HTML
 Year	Milestone
 - 1991	Tim Berners-Lee publishes the first description of HTML
