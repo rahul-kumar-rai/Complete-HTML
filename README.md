@@ -58,7 +58,7 @@ Indentation → makes your code readable
 
 
 # Module 3 — Text Formatting and Links
-### Lesson 7–9
+
 - Bold, italic, emphasis, and highlighting
 - `<strong>`, `<em>`, `<mark>`, `<small>`
 - Ordered and unordered lists
@@ -69,7 +69,7 @@ Indentation → makes your code readable
 
 
 # Module 4 — Images and Media
-### Lesson 10–12
+
 - Images with `<img>`
 - Image paths and file organization
 - alt, width, and height
@@ -79,7 +79,7 @@ Indentation → makes your code readable
 - Embedding content with `<iframe>`
 
 # Module 5 — HTML Tables
-### Lesson 13–14
+
 - `<table>, <tr>, <th>, `and `<td>`
 - Table captions
 - `<thead>, <tbody>, `and `<tfoot>`
@@ -88,7 +88,7 @@ Indentation → makes your code readable
 - Building employee and student tables
 
 # Module 6 — HTML Forms
-### Lesson 15–19
+
 - `<form>`, `<label>`, and `<input>`
 - Text, email, password, and number inputs
 - Radio buttons and checkboxes
@@ -100,7 +100,7 @@ Indentation → makes your code readable
 
 
 # Module 7 — Semantic HTML
-### Lesson 20–22
+
 - `<header>`, `<nav>`, and `<main>`
 - `<section>` and `<article>`
 - `<aside>` and `<footer>`
@@ -109,7 +109,7 @@ Indentation → makes your code readable
 - Choosing the correct HTML element
 
 # Module 8 — Intermediate HTML Elements
-### Lesson 23–25
+
 - `<details>` and `<summary>`
 - `<dialog>` and pop-up dialogs
 - `<progress>` and `<meter>`
@@ -118,7 +118,7 @@ Indentation → makes your code readable
 
 
 # Module 9 — HTML Metadata and SEO
-### Lesson 26–28
+
 - Character encoding and viewport
 - Meta descriptions and page titles
 - Favicon and canonical URLs
@@ -128,7 +128,7 @@ Indentation → makes your code readable
 - Structured data introduction
 
 # Module 10 — Accessibility
-### Lesson 29–30
+
 - Accessible names and labels
 - Image alternative text
 - Keyboard navigation
@@ -137,7 +137,7 @@ Indentation → makes your code readable
 - Accessibility testing
 
 # Module 11 — Responsive and Advanced Media HTML
-### Lesson 31–32
+
 - `<picture>` and `<source>`
 - srcset and sizes
 - Responsive image selection
@@ -146,7 +146,7 @@ Indentation → makes your code readable
 - Embedding third-party content safely
 
 # Module 12 — Advanced Forms
-### Lesson 33–35
+
 - Input types: date, time, color, and file
 - min, max, step, and maxlength
 - autocomplete and inputmode
@@ -155,7 +155,7 @@ Indentation → makes your code readable
 - Validation behavior and form security
 
 # Module 13 — Graphics and Interactive HTML
-### Lesson 36–37
+
 - SVG fundamentals
 - `<canvas>` introduction
 - Embedding SVG and graphics
@@ -164,7 +164,7 @@ Indentation → makes your code readable
 - HTML interaction with JavaScript
 
 # Module 14 — HTML with CSS and JavaScript
-### Lesson 38–40
+
 - Linking external CSS files
 - Inline, internal, and external CSS
 - Adding JavaScript using `<script>`
@@ -173,7 +173,7 @@ Indentation → makes your code readable
 - Inspecting elements in browser DevTools
 
 # Module 15 — Advanced HTML Concepts
-### Lesson 41–43
+
 - `<template>` and reusable markup
 - `<noscript>`
 - data-* attributes
@@ -183,7 +183,7 @@ Indentation → makes your code readable
 - Boolean attributes and attribute rules
 
 # Module 16 — HTML Best Practices
-### Lesson 44–45
+
 - Validating HTML
 - Common coding mistakes
 - Clean, maintainable markup
